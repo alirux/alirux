@@ -4,6 +4,8 @@ I'm a software engineer and architect.
 
 Here you can find my side works, tests, experiments and study materials.
 
+🔭 I’m currently working on ["Viper", a multiplayer snake game](https://liruxir-viper.fly.dev)
+
 I'd like to be more involved in the open source community but so far my only contribution is this [little PR in the phoenix framework](https://github.com/phoenixframework/phoenix/pull/3812). But I'm very happy of José Valim reaction 😊
 
 <!--
