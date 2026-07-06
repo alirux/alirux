@@ -8,6 +8,7 @@ Here you can find my side works, tests, experiments and study materials.
 - ["Viper", a multiplayer snake game](https://liruxir-viper.fly.dev)
 - [My ray tracer in Elixir](https://my-elixir-ray-tracer.gigalixirapp.com/)
 - [Carve, a static analysis tool for Java/Spring codebases](https://github.com/alirux/carve)
+- [Tandem, A Java library that implements the Transactional Outbox Pattern](https://github.com/alirux/tandem)
 
 I'd like to be more involved in the open source community but so far my only contribution is this [little PR in the phoenix framework](https://github.com/phoenixframework/phoenix/pull/3812). But I'm very happy of José Valim reaction 😊
 
