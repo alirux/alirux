@@ -5,7 +5,7 @@ I'm a software engineer and architect.
 Here you can find my side works, tests, experiments and study materials.
 
 🚀 I’m currently working on:
-- ["Viper", a multiplayer snake game](https://liruxir-viper.fly.dev)
+- ["Viper", a multiplayer snake game](https://viper.codingful.com)
 - [My ray tracer in Elixir](https://my-elixir-ray-tracer.gigalixirapp.com/)
 - [Carve, a static analysis tool for Java/Spring codebases](https://github.com/alirux/carve)
 - [Tandem, a Java library that implements the Transactional Outbox Pattern](https://github.com/alirux/tandem)
