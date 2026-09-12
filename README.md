@@ -10,7 +10,7 @@ Here you can find my side works, tests, experiments and study materials.
 - [Carve, a static analysis tool for Java/Spring codebases](https://github.com/alirux/carve)
 - [Tandem, a Java library that implements the Transactional Outbox Pattern](https://github.com/alirux/tandem)
 
-I'd like to be more involved in the open source community but so far my only contribution is this [little PR in the phoenix framework](https://github.com/phoenixframework/phoenix/pull/3812). But I'm very happy of José Valim reaction 😊
+I'm very happy to have made this [little contribution to the Phoenix framework](https://github.com/phoenixframework/phoenix/pull/3812), and even happier about José Valim's reaction to it 😊
 
 <!--
 **alirux/alirux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
