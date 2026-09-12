@@ -32,10 +32,10 @@ Here you can find my side works, tests, experiments and study materials.
 </td>
 </tr>
 <tr>
-<td width="240"><a href="https://github.com/alirux/tandem"><img src="assets/tandem.png" width="220" alt="Tandem"></a></td>
+<td width="240"><a href="https://tandem.codingful.com/"><img src="assets/tandem.png" width="220" alt="Tandem"></a></td>
 <td>
 
-**[Tandem](https://github.com/alirux/tandem)**, an open source Java library implementing the Transactional Outbox Pattern: reliable, strictly-ordered event delivery from your database to Apache Kafka, with no CDC, no Kafka Connect, and no two-phase commit.
+**[Tandem](https://tandem.codingful.com/)**, an [open source](https://github.com/alirux/tandem) Java library implementing the Transactional Outbox Pattern: reliable, strictly-ordered event delivery from your database to Apache Kafka, with no CDC, no Kafka Connect, and no two-phase commit.
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ Here you can find my side works, tests, experiments and study materials.
 <td width="240"><a href="https://my-elixir-ray-tracer.gigalixirapp.com/"><img src="assets/ray-tracer.png" width="220" alt="Ray tracer UI with sliders for material and light parameters next to the rendered sphere"></a></td>
 <td>
 
-**[My ray tracer in Elixir](https://my-elixir-ray-tracer.gigalixirapp.com/)**, [open source](https://github.com/alirux/my-elixir-ray-tracer) and built by following the book *The Ray Tracer Challenge*: every ray, light and material parameter is tunable live, with shading computed using the Phong reflection model.
+**[My ray tracer in Elixir](https://my-elixir-ray-tracer.gigalixirapp.com/)**, an [open source](https://github.com/alirux/my-elixir-ray-tracer) project built by following the book *The Ray Tracer Challenge*: every ray, light and material parameter is tunable live, with shading computed using the Phong reflection model.
 
 </td>
 </tr>
