@@ -8,6 +8,14 @@ Here you can find my side works, tests, experiments and study materials.
 
 <table>
 <tr>
+<td width="240"><a href="https://tandem.codingful.com/"><img src="assets/tandem.png" width="220" alt="Tandem"></a></td>
+<td>
+
+**[Tandem](https://tandem.codingful.com/)**, an [open source](https://github.com/alirux/tandem) Java library implementing the Transactional Outbox Pattern: reliable, strictly-ordered event delivery from your database to Apache Kafka, with no CDC, no Kafka Connect, and no two-phase commit.
+
+</td>
+</tr>
+<tr>
 <td width="240"><a href="https://alirux.github.io/"><img src="assets/lirux.jpg" width="220" alt="Home Page di Lirux: a stylized sunset scene of the Odle mountains with a lit cabin and grazing cow"></a></td>
 <td>
 
@@ -32,10 +40,10 @@ Here you can find my side works, tests, experiments and study materials.
 </td>
 </tr>
 <tr>
-<td width="240"><a href="https://tandem.codingful.com/"><img src="assets/tandem.png" width="220" alt="Tandem"></a></td>
+<td width="240"><a href="https://alirux.github.io/lx-128-surface-retroplot/"><img src="assets/lx-128.png" width="220" alt="LX-128 Surface Retroplot: a green wireframe 3D surface drawn on a retro home computer monitor"></a></td>
 <td>
 
-**[Tandem](https://tandem.codingful.com/)**, an [open source](https://github.com/alirux/tandem) Java library implementing the Transactional Outbox Pattern: reliable, strictly-ordered event delivery from your database to Apache Kafka, with no CDC, no Kafka Connect, and no two-phase commit.
+**[LX-128 Surface Retroplot](https://alirux.github.io/lx-128-surface-retroplot/)**, an [open source](https://github.com/alirux/lx-128-surface-retroplot) 3D function plotter disguised as an 80s home computer. Type a formula, real or complex, and get its surface drawn with chunky pixels, scanlines and phosphor glow, like it's 1985. Somewhere in the terminal there is also a *WarGames* easter egg, for whoever knows the movie.
 
 </td>
 </tr>
